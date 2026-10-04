@@ -5,7 +5,7 @@
 
 A developer training at **School 42**, I build web applications and I'm specializing in **agentic AI development**: autonomous LLM agents that use tools, share memory and run in production. Coming from C (42's common core), I'm now leveling up on the **JavaScript** ecosystem.
 
-🎯 Open to **freelance work right now**, and to an **apprenticeship once I finish 42's common core** _(available from: to be filled in)_.
+🎯 Open to **freelance work right now**, and to an **apprenticeship once I finish 42's common core** _(available from September 2027)_.
 📍 Based in Angoulême, France — open to remote.
 
 ---

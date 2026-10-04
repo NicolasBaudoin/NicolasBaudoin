@@ -5,7 +5,7 @@
 
 Développeur en formation à **l'École 42**, je construis des applications web et je me spécialise dans le **développement IA agentique** : des agents LLM autonomes qui utilisent des outils, partagent une mémoire et tournent en production. Je viens du C (tronc commun 42) et je monte aujourd'hui en compétence sur l'écosystème **JavaScript**.
 
-🎯 Ouvert aux **missions freelance dès maintenant**, et à une **alternance à la fin de mon tronc commun 42** _(dispo à partir de : à compléter)_.
+🎯 Ouvert aux **missions freelance dès maintenant**, et à une **alternance à la fin de mon tronc commun 42** _(dispo à partir de septembre 2027)_.
 📍 Basé à Angoulême — ouvert au remote.
 
 ---
